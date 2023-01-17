@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/interactive-rating-component-react/static/css/main.def77dee.css",
+    "main.js": "/interactive-rating-component-react/static/js/main.8fe5fe09.js",
+    "index.html": "/interactive-rating-component-react/index.html",
+    "main.def77dee.css.map": "/interactive-rating-component-react/static/css/main.def77dee.css.map",
+    "main.8fe5fe09.js.map": "/interactive-rating-component-react/static/js/main.8fe5fe09.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.def77dee.css",
+    "static/js/main.8fe5fe09.js"
+  ]
+}
