@@ -1,0 +1,49 @@
+.container {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-left: 2.4rem;
+  padding-right: 2.4rem;
+}
+.card {
+  width: 32.7rem;
+  height: 36rem;
+  background-color: var(--dark);
+  border-radius: 1.5rem;
+}
+
+.submit {
+  width: 27.9rem;
+  height: 4.5rem;
+  border: none;
+  border-radius: 2.25rem;
+  background-color: var(--orange);
+  color: var(--white);
+  font-size: 1.4rem;
+  line-height: 1.7rem;
+  font-weight: 700;
+  margin-left: 2.4rem;
+  margin-right: 2.4rem;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+
+.submit:hover {
+  background-color: var(--white);
+  color: var(--orange);
+  cursor: pointer;
+}
+
+@media only screen and (min-width: 768px) {
+  .card {
+    width: 41.2rem;
+    height: 41.6rem;
+  }
+
+  .submit {
+    width: 34.1rem;
+    font-size: 1.5rem;
+    margin-left: 3.2rem;
+  }
+}
