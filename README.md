@@ -35,7 +35,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution](https://github.com/zuraba3/Interactive-Rating-Component-React)
-- Live Site URL: [GitHub Live URL]()
+- Live Site URL: [GitHub Live URL](https://zuraba3.github.io/Interactive-Rating-Component-React/)
 
 ## My process
 
